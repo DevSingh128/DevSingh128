@@ -1,50 +1,69 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Dev+Singh;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" />
+</h1>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<p align="center">
+  💻 Full Stack Developer | 🚀 Problem Solver | ⚡ Tech Enthusiast
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devsingh128&label=Profile+Views&color=blue&style=flat" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
 
-###
+## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+    const dev = {
+      name: "Dev Singh",
+      role: "Full Stack Developer",
+      education: "Undergraduate Student",
+      passion: ["Building scalable web apps", "Problem Solving", "Clean Code"],
+      location: "India"
+    };
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 🛠️ Languages & Tools
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python,mysql,c,nodejs,express,react,flask,mongodb,postgres,redis" />
+</p>
+
+---
+
+
+## 🚀 Featured Project
+
+| Project       | Description                                  | Stack       |
+|--------------|----------------------------------------------|-------------|
+| 🛒 SkillVerse | Online e-commerce platform for courses       | MERN Stack  |
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=devsingh128&theme=radical"/>
+</p>
+
+---
+
+
+## 💬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-singh-724ba2334/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/DEVSING98216224"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://codolio.com/profile/dev_singh_01"><img src="https://img.shields.io/badge/Codolio-orange?style=for-the-badge"/></a>
+</p>
+
+---
+
+⭐️ Thanks for visiting my profile! 🚀
